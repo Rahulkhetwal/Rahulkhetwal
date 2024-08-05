@@ -1,9 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on an Automated Backup and Disaster Recovery System to enhance data reliability.
-👯 I’m looking to collaborate on DevOps projects focused on automation, CI/CD, and cloud infrastructure.
-🤝 I’m looking for help with Advanced DevOps practices and cloud optimization.🌱 I’m currently learning Advanced Java programming, DevOps tools, and cloud technologies.
-💬 Ask me about DevOps engineering, Java development, shell scripting, and CI/CD pipelines.
-⚡ Fun fact : I enjoy merging technical skills with creativity, like developing an interview bot using NLP!
+🔭 I’m currently working on an Automated Backup and Disaster Recovery System to enhance data reliability.<br>
+👯 I’m looking to collaborate on DevOps projects focused on automation, CI/CD, and cloud infrastructure.<br>
+🤝 I’m looking for help with Advanced DevOps practices and cloud optimization.<br>
+🌱 I’m currently learning Advanced Java programming, DevOps tools, and cloud technologies.<br>
+💬 Ask me about DevOps engineering, Java development, shell scripting, and CI/CD pipelines.<br>
+⚡ Fun fact : I enjoy merging technical skills with creativity, like developing an interview bot using NLP! <br>
 
 
 ## 🌐 Socials:
