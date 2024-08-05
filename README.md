@@ -28,6 +28,20 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rahulkhetwal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+## 📚 Languages Used
+
+| Language      | Percentage |
+|---------------|------------|
+| Python        |     20%    |
+| Shell         |     15%    |
+| Java          |     15%    |
+| CSS           |     15%    |
+| HTML          |     10%    |
+| JavaScript    |     10%    |
+| PowerShell    |     10%    |
+| Other         |     5%     |
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahulkhetwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
