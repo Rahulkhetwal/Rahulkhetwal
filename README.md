@@ -1,9 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on an Automated Backup and Disaster Recovery System to enhance data reliability.<br>
-👯 I’m looking to collaborate on DevOps projects focused on automation, CI/CD, and cloud infrastructure.<br>
-🤝 I’m looking for help with Advanced DevOps practices and cloud optimization.<br>
-🌱 I’m currently learning Advanced Java programming, DevOps tools, and cloud technologies.<br>
-💬 Ask me about DevOps engineering, Java development, shell scripting, and CI/CD pipelines.<br>
+🎓 A final-year B.Tech CSE student passionate about DevOps, AI, and Machine Learning.<br>
+🔭 Currently working on an Automated Backup and Disaster Recovery System to ensure data reliability and system resilience.<br>
+🤖 Recently built an AI Interview Bot using NLP to simulate real-world conversations.<br>
+🌐 Open to internship opportunities in DevOps, Machine Learning, or AI domains.<br>
+💡 Actively enhancing my skills in cloud computing, DevOps automation, and Java programming.<br>
+👯 Looking to collaborate on real-world projects focused on CI/CD, cloud infrastructure, and intelligent systems.<br>
+💬 Ask me about DevOps engineering, Java, Python, Machine Learning, Cloud Services, and CI/CD pipelines.<br>
 ⚡ Fun fact : I enjoy merging technical skills with creativity, like developing an interview bot using NLP! <br>
 
 
